@@ -10,10 +10,14 @@ What value do you think it offers?
 
 A staging area is for the assembly and grouping of files before they are
 combined into a repository. By putting them together into a set, I can organize
-my files logically over time and by their relationship to each other. 
+my files logically over time and by their relationship to each other.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+By only packaging related files into the commit, I can make sure that the
+staging area has only files related to a logical commit. I can also look
+at the git status to see what's in the staging area before committing. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
