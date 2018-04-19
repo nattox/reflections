@@ -17,12 +17,26 @@ change?
 
 By only packaging related files into the commit, I can make sure that the
 staging area has only files related to a logical commit. I can also look
-at the git status to see what's in the staging area before committing. 
+at the git status to see what's in the staging area before committing.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+In times where I am changing more than one variable at the same time in my
+development. An example of this would be adding two different features at
+the same time, or working in tandem with another person who is doing that.
+
+By branching, we can each experiment, develop, and keep moving along
+without worrying about creating bugs to the master commit with more
+experimental features.
+
 How do the diagrams help you visualize the branch structure?
+
+By giving the abstract structure of the git structure a visual component
+that is easier for me to understand, trace, and internalize. It lets
+my mind map the commits as they are happening in a way that feels more
+real to my mind. Visualizing in addition to understanding in an abstract form
+gives me two ways by which to understand. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
