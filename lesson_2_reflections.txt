@@ -36,10 +36,13 @@ By giving the abstract structure of the git structure a visual component
 that is easier for me to understand, trace, and internalize. It lets
 my mind map the commits as they are happening in a way that feels more
 real to my mind. Visualizing in addition to understanding in an abstract form
-gives me two ways by which to understand. 
+gives me two ways by which to understand.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+By merging two branches together, the result is a new version that incorporates
+both of the change histories. 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
