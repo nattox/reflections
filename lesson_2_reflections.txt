@@ -42,7 +42,13 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
 By merging two branches together, the result is a new version that incorporates
-both of the change histories. 
+both of the change histories.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+The pros of Git's automatic merging are that it happens quickly and doesn't
+require additonal work on the part of the developer. The cons are that it is
+time consuming. A pro is the ability to save more versions without needing
+to consciously choose to do so, but a con is that the logical separation of
+each change is likely to be less. 
