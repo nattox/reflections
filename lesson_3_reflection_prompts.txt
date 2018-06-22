@@ -30,12 +30,15 @@ stored locally?
     The benefit is that you can keep a version that represents what you
     started working on and not have to worry about the origin being modified
     while you are working. You can see the version and functionality you
-    are directly working on and keep that safe and sound on your own computer. 
+    are directly working on and keep that safe and sound on your own computer.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would collaborate by sending files back and forth. It would be easier in
+    that managing GitHub is complicated and versions would be easily agreed
+    upon, but it would be harder since work could not occur concurrently and
+    be as well organized.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
